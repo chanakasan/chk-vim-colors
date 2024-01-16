@@ -1,0 +1,24 @@
+{
+//__config_start
+  /* cloud sync */
+  "settingsSync.ignoredExtensions": [
+    "dionmunk.vscode-notes",
+    "ms-vscode.powershell",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "hediet.vscode-drawio",
+    "ms-vscode-remote.remote-wsl",
+    "ms-vscode.cpptools-extension-pack",
+    "ms-azuretools.vscode-docker",
+    "ms-vscode.cpptools",
+    "ms-vscode.cpptools-themes",
+    "mccarter.start-git-bash",
+    "ms-vscode-remote.remote-containers",
+    "mhutchie.git-graph",
+    "github.codespaces",
+    "ms-playwright.playwright"
+  ],
+  "settingsSync.ignoredSettings": [
+    "-window.zoomLevel"
+  ],
+//__config_end
+}

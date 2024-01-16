@@ -1,0 +1,11 @@
+{
+//__config_start
+  /* ui tabs */
+  "workbench.editor.pinnedTabsOnSeparateRow": true,
+  "workbench.editor.tabActionCloseVisibility": false,
+  "workbench.editor.tabCloseButton": "off",
+  "workbench.editor.openPositioning": "last",
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.value": 15,
+//__config_end
+}

@@ -1,0 +1,6 @@
+{
+//__config_start
+  /* debug */
+  "debug.openDebug": "neverOpen",
+//__config_end
+}

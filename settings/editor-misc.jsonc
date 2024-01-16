@@ -1,0 +1,13 @@
+{
+//__config_start
+  /* editor editing */
+  "editor.tabSize": 2,
+  "workbench.editor.wrapTabs": true,
+
+  /* editor: behavior */
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.restoreViewState": true,
+  "workbench.editor.revealIfOpen": true,
+//__config_end
+}

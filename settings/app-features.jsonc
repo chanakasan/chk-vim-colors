@@ -1,0 +1,22 @@
+{
+//__config_start
+  /* workspace */
+  "security.workspace.trust.enabled": false,
+
+  /* tasks */
+  "task.allowAutomaticTasks": "on",
+
+  /* telemetry */
+  "telemetry.telemetryLevel": "off",
+
+  /* remote ssh */
+  "remote.SSH.remotePlatform": {
+    "formik-repl": "linux",
+    "formik-forms": "linux"
+  },
+  "remoteHub.commitDirectlyWarning": "off",
+  
+  /* extensions */
+  "extensions.ignoreRecommendations": true,
+//__config_end
+}

@@ -1,0 +1,17 @@
+{
+//__config_start
+  /* app behavior */
+  "window.openFilesInNewWindow": "on",
+  "window.openFoldersInNewWindow": "on",
+  "window.openWithoutArgumentsInNewWindow": "off",
+  "window.restoreFullscreen": false,
+  "window.restoreWindows": "none",
+  "workbench.enableExperiments": false,
+  "workbench.reduceMotion": "on",
+  "workbench.startupEditor": "none",
+
+  /* load and save */
+  "files.autoSave": "onFocusChange",
+  "files.hotExit": "off",
+//__config_end
+}

@@ -1,0 +1,31 @@
+{
+//__config_start
+  /* ui file explorer */
+  "explorer.autoReveal": true,
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmUndo": "verbose",
+  "explorer.fileNesting.enabled": false,
+  "explorer.fileNesting.expand": false,
+  "explorer.fileNesting.patterns": {
+    "*.config.js": "${capture}.js"
+  },
+  "explorer.openEditors.minVisible": 10,
+  
+  /* ui panel */
+  "workbench.panel.defaultLocation": "right",
+  "workbench.panel.opensMaximized": "never",
+
+  /* ui window */
+  "window.zoomLevel": 1,
+  "window.newWindowDimensions": "maximized",
+  "window.commandCenter": false,
+  
+  /* ui sidebar */
+  "explorer.openEditors.sortOrder": "alphabetical",
+
+  /* ui splits */
+  "workbench.editor.openSideBySideDirection": "right",
+//__config_end
+}

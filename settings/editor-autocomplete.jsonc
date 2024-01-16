@@ -1,0 +1,16 @@
+{
+//__config_start
+    /* editor autocomplete */
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.inlineSuggest.enabled": false,
+    "editor.quickSuggestions": {
+      "other": "inline",
+      "strings": "inline"
+    },
+    "editor.snippetSuggestions": "top",
+    "editor.suggest.insertMode": "replace",
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.wordBasedSuggestions": "matchingDocuments",
+    "editor.wordBasedSuggestionsMode": "currentDocument",
+//__config_end
+}

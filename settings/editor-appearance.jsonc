@@ -1,0 +1,13 @@
+{
+//__config_start
+    /* editor: appearance */
+    "workbench.colorTheme": "Visual Studio Dark",
+    "editor.cursorBlinking": "solid",
+    "editor.fontFamily": "DejaVuSansMono Nerd Font Mono",
+    "editor.fontSize": 12,
+    "editor.minimap.enabled": false,
+    "editor.guides.indentation": false,
+    "editor.renderLineHighlight": "none",
+    "workbench.editor.decorations.colors": true,
+//__config_end
+}

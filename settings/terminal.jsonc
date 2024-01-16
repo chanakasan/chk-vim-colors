@@ -1,0 +1,16 @@
+{
+//__config_start
+  /* terminal */
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.commandsToSkipShell": [
+    "workbench.action.showEditorsInActiveGroup",
+    "workbench.explorer.openEditorsView.toggleVisibility",
+    "workbench.action.quickOpenNavigateNextInRecentFilesPicker",
+    "workbench.action.showAllEditors",
+    "workbench.action.openGlobalKeybindings",
+    "workbench.action.openPreviousEditorFromHistory"
+  ],
+  "terminal.integrated.allowChords": false,
+  "terminal.integrated.tabs.enabled": false,
+//__config_end
+}

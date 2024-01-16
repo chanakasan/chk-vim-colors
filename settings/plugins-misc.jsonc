@@ -1,0 +1,17 @@
+{
+  /* lang any */
+  "javascript.suggest.enabled": false,
+  "json.format.enable": false,
+  "python.defaultInterpreterPath": "C:\\Users\\Admin1\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+
+  /* plugin any */
+  "remove-empty-lines.allowedNumberOfEmptyLines": 1,
+  "remove-empty-lines.onSaveReason": {
+    "focusOut": true,
+    "manual": false
+  },
+  "remove-empty-lines.runOnSave": true,
+  "vscode-ahk-plus.enableIntelliSense": false,
+}

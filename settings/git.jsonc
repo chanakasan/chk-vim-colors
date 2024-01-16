@@ -1,0 +1,9 @@
+{
+//__config_start
+  /* version control */
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "git.openRepositoryInParentFolders": "always",
+  "git.showPushSuccessNotification": true,
+//__config_end
+}
